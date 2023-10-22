@@ -1,0 +1,25 @@
+.myName {
+  background: #f9b713;
+  /* height: 200px; */
+  padding-left: 5%;
+  padding-right: 10%;
+  font-size: 75px;
+}
+
+/* .header h1 {
+  margin: 0;
+  padding-top: 75px;
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+} */
+
+.nav-item{
+  /* background: #f9b713; */
+  /* height: 200px; */
+  padding-left: 5%;
+  /* padding-right: %; */
+  align-items:flex-end;
+  font-size: 15px;
+  color: aqua;
+}
