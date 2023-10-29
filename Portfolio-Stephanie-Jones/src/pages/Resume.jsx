@@ -32,6 +32,7 @@ export default function Resume() {
       <h4>
       August 2009 – May 2012
       </h4>
+      
     </div>
   );
 }
