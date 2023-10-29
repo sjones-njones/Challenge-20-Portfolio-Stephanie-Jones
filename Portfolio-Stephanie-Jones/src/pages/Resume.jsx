@@ -1,24 +1,7 @@
-// // import coder from "..//assets/images/Resume";
-// export default function Resume() {
-//   return (
-//     <div>
-//       <h1>Resume</h1>
-// {/* 
-//       {/* <a href='https://docs.google.com/document/d/1Q6PeUTCNxjt2d3W6loSLmbayonn2UYTP/edit?usp=sharing&ouid=107232232635144064465&rtpof=true&sd=true'>Resume - Stephanie Jones </a> */}
-//       <a href='../assets/resume.docx'>Resume - Stephanie Jones </a> 
-
-//       {/* <a href= coder /> */}
-
-//       {/* // <p> */}
-//       {/* // </p> */}
-//     </div>
-//   );
-// }
 
 export default function Resume() {
   return (
     <div>
-      <h1>Home Page</h1>
       <h2>Summary </h2>
       <p>
         I am a passionate, patient, creative, and dedicated teacher with 6 years of experience teaching both online and in the classroom. I have experience creating and maintaining inventories for the chemistry department at a major university. I have a Bachelors of Science in Chemistry as well as a Masters of Education. I am currently seeking to transition from the field of education to pursue engaging work as a Virtual Assistant.
@@ -37,11 +20,18 @@ export default function Resume() {
         </li>
       </ul>
       <h2>Experience</h2>
-      <h3>Cashier’s Assistant</h3>
-      <p>Addressing and following up on all customer queries
-Ensuring accuracy in the processing of members’ orders
-Actively engaging in Costco’s promotional activities and other sales events
-</p>
+      
+      <h3>Cashier’s Assistant and Meat Stocker</h3>
+      <h3>Costco</h3>
+      <h4>October 2021 - Currently Employed</h4>
+      <h3>VIPKID</h3>
+      <h3>ESL Teacher - Remote</h3>
+      <h4>October 2021 - Currently Employed</h4>
+            <h3>Chemistry Teacher</h3>
+      <h3>Zachary High School</h3>
+      <h4>
+      August 2009 – May 2012
+      </h4>
     </div>
   );
 }
