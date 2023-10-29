@@ -1,26 +1,13 @@
-// export default function Contact() {
-//   return (
-//     <div>
-//       <h1>Contact Page</h1>
-//       <p>
-//         Email: sjones.njones@gmail.com
-//       </p>
-//       <p>Phone Number: (225) 938-8906</p>
-//       <p>GitHub: sjones-njones </p>
-//     </div>
-//   );
-// }
-
 export default function Contact() {
   return (
     <div>
-      <h1>Contact Page</h1>
-      <p>
-        Email: sjones.njones@gmail.com
-      </p>
-      <p>Phone Number: (225) 938-8906</p>
-      <p>GitHub: sjones-njones </p>
+      <ul>
+        <li><a href="tel:2259388906">Phone Number: 225.938.8906</a>
+        </li>
+        <li><a href="mailto:sjones.njones@gmail.com">Email: sjones.njones@gmail.com </a>
+        </li>
+        <li><a href="https://github.com/sjones-njones">Visit my GitHub Page</a></li>
+      </ul>
     </div>
-
   );
 }
