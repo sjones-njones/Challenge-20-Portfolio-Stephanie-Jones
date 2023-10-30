@@ -17,7 +17,7 @@ const projects =
   },
   {
     id: 2,
-    title: 'Workday scheduler',
+    title: 'Workday Scheduler',
     summary: 'This code provides the user with a work day scheduler that changes colors showing the time (past, present, and future) using DayJS to track the current time. It also gives a space for the user to write their tasks for the day and saves it to local storage to be viewed later.',
     image: work,
     technologies: "JavaScript, local Storage, jQuery, Moment.js",
