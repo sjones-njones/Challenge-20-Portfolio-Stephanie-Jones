@@ -8,5 +8,4 @@ export default defineConfig({
     port: 3000,
     open: true
   },
-  base:"/Challenge-20-Portfolio-Stephanie-Jones/"
 })
